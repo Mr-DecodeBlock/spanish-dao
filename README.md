@@ -24,15 +24,6 @@ npm install
 npm run dev
 ```
 
-## Author
-
-👤 **Alberto Cruz Luis**
-
-* Website: albertocruzluis.com
-* Twitter: [@albertocruzdev](https://twitter.com/albertocruzdev)
-* Github: [@AlbertoCruzLuis](https://github.com/AlbertoCruzLuis)
-* LinkedIn: [@albertocruzluis](https://linkedin.com/in/albertocruzluis)
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
